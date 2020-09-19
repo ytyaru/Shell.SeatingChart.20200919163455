@@ -10,8 +10,12 @@ Randomly generate a seating chart.
 
 # Features
 
-* Display HTML using `zenity`
-* Color code by gender
+* Display in HTML using `zenity`
+* 40 people (8 columns, 5 rows)
+* Male-female ratio 1: 1
+* Full name of Japanese name
+* Arranged from top left to bottom right in order of name (attendance number)
+* Color-coded with blue for men and red for women
 
 # Requirement
 
